@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>734788363417-skl5c0nv247fesht9h243ldqtg6n7155.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.734788363417-skl5c0nv247fesht9h243ldqtg6n7155</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAZeMrOTwUS9ZQiJLCVTBvs2wS7Oev3T5o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>734788363417</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.council-tech.galactic.mice</string>
+	<key>PROJECT_ID</key>
+	<string>galactic-mice</string>
+	<key>STORAGE_BUCKET</key>
+	<string>galactic-mice.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:734788363417:ios:99295bf7db344de7</string>
+	<key>DATABASE_URL</key>
+	<string>https://galactic-mice.firebaseio.com</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-1187817622415050~6274817202</string>
+</dict>
+</plist>

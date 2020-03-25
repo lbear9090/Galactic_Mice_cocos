@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "734788363417",
+    "firebase_url": "https://galactic-mice.firebaseio.com",
+    "project_id": "galactic-mice",
+    "storage_bucket": "galactic-mice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734788363417:android:12af824385a52b0f",
+        "android_client_info": {
+          "package_name": "com.council_tech.galactic_mice_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734788363417-71e2f6or03ubpmj48sfv02scbsh2phet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBczZZPcHilM-TakQEIHewE7qlUFpZgmpI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-1187817622415050~1956758661"
+    }
+  ],
+  "configuration_version": "1"
+}
